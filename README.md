@@ -12,4 +12,4 @@
 
 🏋️ At free time I love to do sports
 
-💬 Check out my LinkedIn profile, too!
+💬 Check out my LinkedIn profile: https://fi.linkedin.com/in/satu-halinen-a25a781b7!
