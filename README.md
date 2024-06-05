@@ -2,9 +2,7 @@
 
 💻 Studying Full Stack Web Development at Business College Helsinki
 
-🎒 Currently studying React and Node
-
-👩‍💻 Searching for internship position for the on-the-job learning period in spring -> autumn 2024
+🎒 Currently studying React.js, Express.js, Node.js and SQL
 
 🧬 Master of Science in Biotechnology
 
