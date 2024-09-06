@@ -1,8 +1,12 @@
 # Hi, I'm Satu Halinen
 
-💻 Studying Full Stack Web Development at Business College Helsinki
+🎓 Full Stack Web Developer from Business College Helsinki 
 
-🎒 Currently studying React.js, Express.js, Node.js and SQL
+💻 Studying Computer Science at Aalto University
+
+🛠 Skills: JavaScript, React, Node, SQLite, Firebase
+
+🎒 Currently studying Scala
 
 🧬 Master of Science in Biotechnology
 
