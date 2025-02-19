@@ -4,7 +4,7 @@
 
 💻 Studying Computer Science at Aalto University
 
-🛠 Skills: JavaScript, React, Node, SQLite, Firebase
+🛠 Skills: JavaScript, React, Node, SQL, Firebase
 
 🎒 Currently studying Scala
 
